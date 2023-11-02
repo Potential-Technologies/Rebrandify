@@ -22,6 +22,11 @@ Rebrandify is a powerful solution for organizations seeking to maintain brand co
 - Design tokens and CSS variables for easy customization.
 - Consistent and responsive design elements.
 - Scalable and efficient design system.
+- User-friendly interface.
+- Interoperable with various frameworks and projects.
+- Open-source and community-driven.
+- Regular updates and maintenance.
+- Thorough documentation for easy implementation.
 
 ## Installation
 
